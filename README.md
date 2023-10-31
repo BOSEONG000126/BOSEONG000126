@@ -45,8 +45,8 @@ Here are some ideas to get you started:
   <h3>🛠 GitHub Stats 🛠</h3>
   <br/>
   <p>
-    <img width = "50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=BOSEONG000126&show_icons=true&include_all_commits=true&bg_color=30,81c147,008000&title_color=fff&text_color=fff">
-    <img width="50%"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOSEONG000126&layout=compact&bg_color=30,81c147,008000&title_color=fff&text_color=fff">
+    <img width = "400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=BOSEONG000126&show_icons=true&include_all_commits=true&bg_color=30,81c147,008000&title_color=fff&text_color=fff">
+    <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOSEONG000126&layout=compact&bg_color=30,81c147,008000&title_color=fff&text_color=fff">
   </p>
 
 </div>
