@@ -18,8 +18,12 @@ Here are some ideas to get you started:
   
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=81c147&height=150&section=header&text=BoSeong&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
 <p> Hi There! I'm a student majoring in Ai </p>
-<p> I'm interested in Computer Vision and I can develop an Application</p>
-<p>I am studying hard to become an engineer of Ai. 😎  </p>
+<p> I am interested Machine Learning and Computer Vision.</p>
+<p>I have a lot of experience in AI projects, and I like to use AI to create applications.</p>
+<p>I enjoy learning and am greedy to learn. </p>
+<p>If you want to contact me, send me an e-mail qhtjd0632@naver.com</p>
+<p>Thank you 😄</p>
+
 <hr/>
 
 
