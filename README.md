@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h3>🍵 Welcome BoSeong github 🍵</h3>
   
 <p> Hi There! I'm a student majoring in Ai </p>
-<p> I am interested Machine Learning and Computer Vision.</p>
+<p> I am interested Multi Modal and Generative AI.</p>
 <p>I have a lot of experience in AI projects, and I like to use AI to create applications.</p>
 <p>I enjoy learning and am greedy to learn. </p>
 <p>If you want to contact me, send me an e-mail qhtjd0632@naver.com</p>
