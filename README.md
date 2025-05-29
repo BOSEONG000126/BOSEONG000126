@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>🍵 Welcome BoSeong github 🍵</h3>
   
-<p> Hi There! I'm a student majoring in Ai </p>
-<p> I am interested Multimodal Generative AI.</p>
+<p>Hello! I’m a graduate student specializing in AI with a passion for Medical AI</p>
+<p>My research focuses on multimodal generative AI for medical imaging and clinical data fusion.</p>
 <p>I have a lot of experience in AI projects, and I like to use AI to create applications.</p>
-<p>I enjoy learning and am greedy to learn. </p>
-<p>If you want to contact me, send me an e-mail qhtjd0632@naver.com</p>
-<p>Thank you 😄</p>
+<p>I’m always eager to learn new techniques and collaborate on innovative medical AI solutions.</p>
+<p>If you’d like to get in touch, please email me at <a href="mailto:qhtjd0632@naver.com">qhtjd0632@naver.com</a>.</p>
+<p>Thank you!😄</p>
 
 <hr/>
 
