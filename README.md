@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>My research focuses on multimodal generative AI for medical imaging and clinical data fusion.</p>
 <p>I have a lot of experience in AI projects, and I like to use AI to create applications.</p>
 <p>I’m always eager to learn new techniques and collaborate on innovative medical AI solutions.</p>
-<p>If you’d like to get in touch, please email me at <a href="mailto:boseong@hanyang.ac.kr">qhtjd0632@naver.com</a>.</p>
+<p>If you’d like to get in touch, please email me at <a href="mailto:boseong@hanyang.ac.kr">boseong@hanyang.ac.kr</a>.</p>
 <p>Thank you!😄</p>
 
 <hr/>
