@@ -7,12 +7,12 @@ brain connectivity, graph and hypergraph learning, and network similarity.
 
 ## Research projects
 
-| Project | Focus |
-| --- | --- |
-| [CoHyFuse](https://github.com/labhai/CoHyFuse) | Condition-wise hypergraph fusion with global functional connectivity for task-fMRI. |
-| [MovieSTAGE](https://github.com/labhai/MovieSTAGE) | Scene, transition, and global encoding for movie-fMRI classification. |
-| [BOLDSimNet](https://github.com/labhai/BOLDSimNet) | Functionally informed comparison of MTE-derived brain networks. |
-| [BrainGED](https://github.com/labhai/BrainGED) | Hierarchy-aware similarity for signed functional brain networks. |
+| Project | Focus | Venue / Status |
+| --- | --- | --- |
+| [CoHyFuse](https://github.com/labhai/CoHyFuse) | Condition-wise hypergraph fusion with global functional connectivity for task-fMRI. | IEEE BIBM · Accepted |
+| [MovieSTAGE](https://github.com/labhai/MovieSTAGE) | Scene, transition, and global encoding for movie-fMRI classification. | IEEE BIBM · Accepted |
+| [BOLDSimNet](https://github.com/labhai/BOLDSimNet) | Functionally informed comparison of MTE-derived brain networks. | *Human Brain Mapping* · Accepted |
+| [BrainGED](https://github.com/labhai/BrainGED) | Hierarchy-aware similarity for signed functional brain networks. | Under review |
 
 ## Contact
 
